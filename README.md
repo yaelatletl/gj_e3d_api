@@ -1,4 +1,7 @@
 # gj_e3d_api
+
+	Basado en el trabajo de  vncastanheira (módulo gjapi_python) https://github.com/vncastanheira/gjapi_python 
+			LGPL
 Este código fue hecho para intercambiar información con el motor de juego Entidad 3d para mejorar la funcionalidad de este, hay algunas cosas importantes que saber para no mezclar archivos: 
 
   1: Debido a posibles problemas de licencia, no incluye ningún nivel compilado, sólo un nivel sin compilar llamado Menu.3dt; tendrás que compilarlo para probar la API. (La relase no contiene ninguna parte de entidad 3d, más que |referencias| a los archivos cabecera que se usan)
